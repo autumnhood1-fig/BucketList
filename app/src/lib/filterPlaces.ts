@@ -1,0 +1,53 @@
+import type { Place } from "../types/place";
+import type { Filters } from "../types/filters";
+
+export function placeMatchesFilters(
+  place: Place,
+  filters: Filters,
+  isVisited: (id: string) => boolean,
+): boolean {
+  if (filters.categories.length && !filters.categories.includes(place.category)) {
+    return false;
+  }
+
+  if (filters.indoorOutdoor.length && !filters.indoorOutdoor.includes(place.indoorOutdoor)) {
+    return false;
+  }
+
+  if (filters.priceTiers.length) {
+    const matchesPrice = filters.priceTiers.some((tier) => {
+      if (tier === "free") return place.priceTier === "free" || place.oslFree;
+      return place.priceTier === tier;
+    });
+    if (!matchesPrice) return false;
+  }
+
+  if (filters.discountOnly && !place.discount) {
+    return false;
+  }
+
+  if (filters.seasonality.length) {
+    const matchesSeason = filters.seasonality.some((s) =>
+      s === "seasonal" ? place.seasonal : !place.seasonal,
+    );
+    if (!matchesSeason) return false;
+  }
+
+  if (filters.states.length && !filters.states.includes(place.state)) {
+    return false;
+  }
+
+  if (filters.driveBuckets.length) {
+    if (!place.driveBucket || !filters.driveBuckets.includes(place.driveBucket)) {
+      return false;
+    }
+  }
+
+  if (filters.visited !== "all") {
+    const v = isVisited(place.id);
+    if (filters.visited === "visited" && !v) return false;
+    if (filters.visited === "not-visited" && v) return false;
+  }
+
+  return true;
+}
