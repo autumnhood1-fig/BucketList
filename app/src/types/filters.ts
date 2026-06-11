@@ -4,6 +4,7 @@ export type VisitedFilter = "all" | "visited" | "not-visited";
 export type SeasonFilter = Seasonality;
 
 export interface Filters {
+  search: string;
   categories: string[];
   indoorOutdoor: IndoorOutdoor[];
   priceTiers: PriceTier[];
@@ -15,6 +16,7 @@ export interface Filters {
 }
 
 export const EMPTY_FILTERS: Filters = {
+  search: "",
   categories: [],
   indoorOutdoor: [],
   priceTiers: [],

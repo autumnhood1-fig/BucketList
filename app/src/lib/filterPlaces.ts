@@ -6,6 +6,13 @@ export function placeMatchesFilters(
   filters: Filters,
   isVisited: (id: string) => boolean,
 ): boolean {
+  if (filters.search.trim()) {
+    const query = filters.search.trim().toLowerCase();
+    const matches =
+      place.name.toLowerCase().includes(query) || place.city.toLowerCase().includes(query);
+    if (!matches) return false;
+  }
+
   if (filters.categories.length && !filters.categories.includes(place.category)) {
     return false;
   }

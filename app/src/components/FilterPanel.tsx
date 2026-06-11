@@ -42,6 +42,16 @@ export function FilterPanel({ filters, onChange, categories, states, resultCount
           Reset all
         </button>
       </div>
+      <div className="px-4 pb-2">
+        <input
+          type="search"
+          value={filters.search}
+          onChange={(e) => set("search", e.target.value)}
+          placeholder="Search by name or city..."
+          className="w-full rounded-md border border-gray-300 px-3 py-1.5 text-sm focus:border-blue-500 focus:outline-none"
+        />
+      </div>
+
       <div className="px-4 pb-2 text-sm text-gray-500">
         Showing <span className="font-semibold text-gray-800">{resultCount}</span> of {totalCount}
       </div>
