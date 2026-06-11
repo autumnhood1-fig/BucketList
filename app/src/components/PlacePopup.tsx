@@ -1,5 +1,5 @@
 import type { Place } from "../types/place";
-import { PRICE_TIER_LABELS } from "../types/filters";
+import { PRICE_TIER_LABELS, SEASON_LABELS } from "../types/filters";
 
 interface Props {
   place: Place;
@@ -32,7 +32,7 @@ export function PlacePopup({ place, visited, onToggleVisited }: Props) {
           </span>
         )}
         <span className="px-1.5 py-0.5 rounded bg-gray-100 text-gray-700 text-xs">
-          {place.seasonal ? "Seasonal" : "Year-round"}
+          {SEASON_LABELS[place.seasonality]}
         </span>
       </div>
 

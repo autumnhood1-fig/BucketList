@@ -26,11 +26,8 @@ export function placeMatchesFilters(
     return false;
   }
 
-  if (filters.seasonality.length) {
-    const matchesSeason = filters.seasonality.some((s) =>
-      s === "seasonal" ? place.seasonal : !place.seasonal,
-    );
-    if (!matchesSeason) return false;
+  if (filters.seasonality.length && !filters.seasonality.includes(place.seasonality)) {
+    return false;
   }
 
   if (filters.states.length && !filters.states.includes(place.state)) {

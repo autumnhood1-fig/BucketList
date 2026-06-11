@@ -240,11 +240,11 @@ for it in items:
         it.get("details"), " ".join(it.get("extra", []))
     ]))
     if SEASON_RE.search(text_blob):
-        seasonal = True
+        seasonality = "warm"
     elif "year-round" in text_blob.lower() or "year round" in text_blob.lower():
-        seasonal = False
+        seasonality = "year-round"
     else:
-        seasonal = category in SEASONAL_DEFAULT_TRUE
+        seasonality = "warm" if category in SEASONAL_DEFAULT_TRUE else "year-round"
 
     indoor_outdoor = it.get("indoorOutdoor") or INOUT_DEFAULT.get(category, "Both")
 
@@ -263,7 +263,7 @@ for it in items:
         "oslNote": osl_note,
         "discount": bool(discount),
         "discountNote": discount_note,
-        "seasonal": seasonal,
+        "seasonality": seasonality,
         "hours": it.get("hours") if it.get("hours") != it.get("admission") else None,
         "details": it.get("details"),
         "lat": None,

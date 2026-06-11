@@ -21,6 +21,7 @@ export const CATEGORY_COLORS: Record<string, string> = {
   "Sea Glass Beach": "#06b6d4",
   "Tide Pools": "#14b8a6",
   "City & Town Trip": "#6366f1",
+  "Movie / Drive-In": "#be185d",
 };
 
 export const DEFAULT_COLOR = "#6b7280";

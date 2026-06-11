@@ -1,7 +1,7 @@
-import type { DriveBucket, IndoorOutdoor, PriceTier } from "./place";
+import type { DriveBucket, IndoorOutdoor, PriceTier, Seasonality } from "./place";
 
 export type VisitedFilter = "all" | "visited" | "not-visited";
-export type SeasonFilter = "year-round" | "seasonal";
+export type SeasonFilter = Seasonality;
 
 export interface Filters {
   categories: string[];
@@ -42,3 +42,10 @@ export const PRICE_TIER_LABELS: Record<PriceTier, string> = {
 };
 
 export const INDOOR_OUTDOOR_OPTIONS: IndoorOutdoor[] = ["Indoor", "Outdoor", "Both"];
+
+export const SEASON_FILTERS: SeasonFilter[] = ["year-round", "warm", "cold"];
+export const SEASON_LABELS: Record<SeasonFilter, string> = {
+  "year-round": "Year-round",
+  warm: "Warm weather",
+  cold: "Cold weather",
+};

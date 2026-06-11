@@ -14,11 +14,11 @@
     "oslNote": "Yes - 50% off, up to 4 people | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.816418,
-    "lng": -71.4092758
+    "lng": -71.4092758,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-rwp-museum-of-natural-history-planetarium",
@@ -35,11 +35,11 @@
     "oslNote": "Yes - free 2 adults+4 kids (Rogers Free) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-risd-museum-of-art",
@@ -56,11 +56,11 @@
     "oslNote": "Yes - free 2 adults, kids free | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-battleship-cove",
@@ -77,11 +77,11 @@
     "oslNote": "Yes - listed (Cumberland) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7053275,
-    "lng": -71.1633887
+    "lng": -71.1633887,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-children-s-museum-of-greater-fall-river",
@@ -98,11 +98,11 @@
     "oslNote": "Yes - half price up to 4 (Tiverton) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7080402,
-    "lng": -71.1539692
+    "lng": -71.1539692,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-herreshoff-marine-museum",
@@ -119,11 +119,11 @@
     "oslNote": "Yes - free 2 adults + kids (Barrington) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6634352,
-    "lng": -71.2717155
+    "lng": -71.2717155,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-smith-s-castle",
@@ -140,11 +140,11 @@
     "oslNote": "Yes - free 2 adults+3 kids (No. Kingstown) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5514283,
-    "lng": -71.4693875
+    "lng": -71.4693875,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-battleship-cove-note-maritime-nautical-theme",
@@ -161,11 +161,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "world's largest collection of WWII ships",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7010642,
-    "lng": -71.1546367
+    "lng": -71.1546367,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-newport-car-museum",
@@ -182,11 +182,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5688949,
-    "lng": -71.2799302
+    "lng": -71.2799302,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-tomaquag-museum-indigenous",
@@ -203,11 +203,11 @@
     "oslNote": "Yes - BOGO (Jamestown) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5774793,
-    "lng": -71.5376881
+    "lng": -71.5376881,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-the-breakers",
@@ -224,11 +224,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Newport Mansions multi-house | Preservation Society multi-house combo saves vs single tickets",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4697373,
-    "lng": -71.2982119
+    "lng": -71.2982119,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-newport-mansions-multi-house-pass",
@@ -245,11 +245,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Combo tickets vary; under 6 free | Preservation Society combo | Preservation Society multi-house combo saves vs single tickets",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4899827,
-    "lng": -71.3137707
+    "lng": -71.3137707,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-the-sailing-museum",
@@ -266,11 +266,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4832179,
-    "lng": -71.3150655
+    "lng": -71.3150655,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-new-bedford-whaling-museum",
@@ -287,11 +287,11 @@
     "oslNote": "Yes - half price, up to 4 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.635169,
-    "lng": -70.9231848
+    "lng": -70.9231848,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-ecotarium",
@@ -308,11 +308,11 @@
     "oslNote": "Yes - listed (Cumberland/Greenville) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ASTC Passport (free if 90+ mi from a member museum you join)",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2644394,
-    "lng": -71.7667726
+    "lng": -71.7667726,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-worcester-art-museum",
@@ -329,11 +329,11 @@
     "oslNote": "Yes - 50% off, 2 adults+2 kids | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2730336,
-    "lng": -71.801977
+    "lng": -71.801977,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-children-s-museum-easton",
@@ -350,11 +350,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.0668784,
-    "lng": -71.1025131
+    "lng": -71.1025131,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-frosty-drew-observatory-nature-center",
@@ -371,11 +371,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3831566,
-    "lng": -71.641729
+    "lng": -71.641729,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-the-children-s-museum-in-franklin",
@@ -392,11 +392,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.5896205,
-    "lng": -72.6110645
+    "lng": -72.6110645,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-taza-chocolate-factory-tour",
@@ -413,11 +413,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3875968,
-    "lng": -71.0994968
+    "lng": -71.0994968,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-mayflower-ii",
@@ -434,11 +434,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Plimoth Patuxet combo | On Go City / CityPASS Boston add-ons",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9597978,
-    "lng": -70.6619409
+    "lng": -70.6619409,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-boston-children-s-museum",
@@ -455,11 +455,11 @@
     "oslNote": "Yes - 50% off Thu-Sat, up to 4 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3518468,
-    "lng": -71.0496461
+    "lng": -71.0496461,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-boston-museum-of-science",
@@ -476,11 +476,11 @@
     "oslNote": "Yes - $10/person, up to 4 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Boston CityPASS (~45% off, pick 4) or Go City | Discount w/ a Roger Williams Zoo membership | ASTC Passport (free if 90+ mi from a member museum you join)",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3674305,
-    "lng": -71.071098
+    "lng": -71.071098,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-boston-museum-of-fine-arts",
@@ -497,11 +497,11 @@
     "oslNote": "Yes - $10/adult | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Go City Boston may include",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-institute-of-contemporary-art-play-date-days",
@@ -518,11 +518,11 @@
     "oslNote": "Yes - $5, up to 2 (Barrington) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Go City Boston may include",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-isabella-stewart-gardner-museum",
@@ -539,11 +539,11 @@
     "oslNote": "Yes - $5, up to 4 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.338245,
-    "lng": -71.0991538
+    "lng": -71.0991538,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-harvard-museum-of-natural-history",
@@ -560,11 +560,11 @@
     "oslNote": "Harvard Art Museums pass (Barrington) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Boston CityPASS (~45% off, pick 4) or Go City",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3784657,
-    "lng": -71.115646
+    "lng": -71.115646,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-mystic-seaport-museum",
@@ -581,11 +581,11 @@
     "oslNote": "Yes - half price, 2 adults+3 kids | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3618311,
-    "lng": -71.9643827
+    "lng": -71.9643827,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-submarine-force-museum-uss-nautilus",
@@ -602,11 +602,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.34655,
-    "lng": -72.0388786
+    "lng": -72.0388786,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-uss-constitution-museum",
@@ -623,11 +623,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Ship free (museum donation) | On Go City / CityPASS Boston add-ons",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3738878,
-    "lng": -71.0555158
+    "lng": -71.0555158,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-kidcity-children-s-museum",
@@ -644,11 +644,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5616881,
-    "lng": -72.6521205
+    "lng": -72.6521205,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-gillette-castle-state-park",
@@ -665,11 +665,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4267185,
-    "lng": -72.4283113
+    "lng": -72.4283113,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-dinosaur-state-park",
@@ -686,11 +686,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": "~$8 adult / $2 child (6-12); real dino tracks under a dome + cast-your-own track (seasonal)",
     "details": null,
     "lat": 41.6502881,
-    "lng": -72.6564509
+    "lng": -72.6564509,
+    "seasonality": "warm"
   },
   {
     "id": "museum-learning-center-hammond-castle",
@@ -707,11 +707,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.585638,
-    "lng": -70.69309
+    "lng": -70.69309,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-barker-character-comic-cartoon-museum",
@@ -728,11 +728,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4989355,
-    "lng": -72.9009925
+    "lng": -72.9009925,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-kidsplay-children-s-museum",
@@ -749,11 +749,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8017158,
-    "lng": -73.1217991
+    "lng": -73.1217991,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-springfield-museums-4-museum-campus-dr-seuss",
@@ -770,11 +770,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "One ticket = all 4 + Seuss",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.1018764,
-    "lng": -72.5886727
+    "lng": -72.5886727,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-the-eric-carle-museum-of-picture-book-art",
@@ -791,11 +791,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3731948,
-    "lng": -72.5198761
+    "lng": -72.5198761,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-whydah-pirate-museum",
@@ -812,11 +812,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6501032,
-    "lng": -70.2250162
+    "lng": -70.2250162,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-pez-visitor-center-factory",
@@ -833,11 +833,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.2784304,
-    "lng": -73.0256609
+    "lng": -73.0256609,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-children-s-museum-theatre",
@@ -854,11 +854,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.6573605,
-    "lng": -70.2586618
+    "lng": -70.2586618,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-international-cryptozoology-museum",
@@ -875,11 +875,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.8016255,
-    "lng": -68.7713289
+    "lng": -68.7713289,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-desert-of-maine",
@@ -896,11 +896,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.8588495,
-    "lng": -70.1565315
+    "lng": -70.1565315,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-stepping-stones-museum-for-children",
@@ -917,11 +917,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ACM reciprocal: 50% off up to 6 w/ a member children's-museum card",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.1099721,
-    "lng": -73.415518
+    "lng": -73.415518,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-discovery-museum",
@@ -938,11 +938,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ASTC Passport (free if 90+ mi from member museum)",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.2150394,
-    "lng": -73.2331951
+    "lng": -73.2331951,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-mass-moca",
@@ -959,11 +959,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.7012857,
-    "lng": -73.1158854
+    "lng": -73.1158854,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-montshire-museum-of-science",
@@ -980,11 +980,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "ASTC Passport (free if 90+ mi from a member museum you join)",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.7002243,
-    "lng": -72.305182
+    "lng": -72.305182,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-the-wild-center",
@@ -1001,11 +1001,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.2197645,
-    "lng": -74.4386169
+    "lng": -74.4386169,
+    "seasonality": "year-round"
   },
   {
     "id": "museum-learning-center-wild-blueberry-land",
@@ -1022,11 +1022,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": "Giant blue dome + blueberry mini-golf; seasonal. Far - past Acadia",
     "details": null,
     "lat": 44.6484332,
-    "lng": -67.7069378
+    "lng": -67.7069378,
+    "seasonality": "warm"
   },
   {
     "id": "museum-learning-center-american-treasure-tour-mus",
@@ -1043,11 +1043,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 40.1275168,
-    "lng": -75.4534861
+    "lng": -75.4534861,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-roger-williams-park-zoo",
@@ -1064,11 +1064,11 @@
     "oslNote": "Yes - $3 off up to 4 (NOT Jan-Feb) | RI EBT: $169 family membership for $45 (then reciprocal discounts at Boston MoS, Franklin Park & Stone Zoos, Beardsley) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Daily 10-4",
     "details": null,
     "lat": 41.7886061,
-    "lng": -71.4165508
+    "lng": -71.4165508,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-biomes-marine-biology-center",
@@ -1085,11 +1085,11 @@
     "oslNote": "Yes - discount (some branches) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": true,
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 41.6170896,
-    "lng": -71.4573217
+    "lng": -71.4573217,
+    "seasonality": "warm"
   },
   {
     "id": "zoo-aquarium-animals-audubon-nature-center-aquarium",
@@ -1106,11 +1106,11 @@
     "oslNote": "Yes - free, up to 6 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Daily",
     "details": null,
     "lat": 41.7098728,
-    "lng": -71.2829829
+    "lng": -71.2829829,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-capron-park-zoo",
@@ -1127,11 +1127,11 @@
     "oslNote": "Yes - free 2 adults+4 kids (Rogers Free) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": true,
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 41.9379713,
-    "lng": -71.2978949
+    "lng": -71.2978949,
+    "seasonality": "warm"
   },
   {
     "id": "zoo-aquarium-animals-save-the-bay-exploration-center-aquarium",
@@ -1148,11 +1148,11 @@
     "oslNote": "Yes - $2 off whole party | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": true,
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 41.4899827,
-    "lng": -71.3137707
+    "lng": -71.3137707,
+    "seasonality": "warm"
   },
   {
     "id": "zoo-aquarium-animals-southwick-s-zoo",
@@ -1169,11 +1169,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": true,
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 42.0640307,
-    "lng": -71.5846736
+    "lng": -71.5846736,
+    "seasonality": "warm"
   },
   {
     "id": "zoo-aquarium-animals-buttonwood-park-zoo",
@@ -1190,11 +1190,11 @@
     "oslNote": "Yes - free 4 people (Tiverton) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Daily 10-4",
     "details": null,
     "lat": 41.6301927,
-    "lng": -70.9528127
+    "lng": -70.9528127,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-franklin-park-zoo",
@@ -1211,11 +1211,11 @@
     "oslNote": "Yes - reduced up to 6 (Coventry) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Boston CityPASS (~45% off, pick 4) or Go City | AZA reciprocal (many zoos 50% off w/ member zoo card) | Discount w/ a Roger Williams Zoo membership",
-    "seasonal": false,
     "hours": "Daily 10-4",
     "details": null,
     "lat": 42.3051612,
-    "lng": -71.0888892
+    "lng": -71.0888892,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-national-marine-life-center",
@@ -1232,11 +1232,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": true,
     "hours": "Seasonal",
     "details": null,
     "lat": 41.7451892,
-    "lng": -70.612513
+    "lng": -70.612513,
+    "seasonality": "warm"
   },
   {
     "id": "zoo-aquarium-animals-new-england-wildlife-center",
@@ -1253,11 +1253,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Limited",
     "details": null,
     "lat": 42.1802307,
-    "lng": -70.9726066
+    "lng": -70.9726066,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-new-england-aquarium",
@@ -1274,11 +1274,11 @@
     "oslNote": "Yes - half price, up to 4 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "Boston CityPASS (~45% off, pick 4) or Go City | AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Daily 9-5",
     "details": null,
     "lat": 42.3592003,
-    "lng": -71.0491841
+    "lng": -71.0491841,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-mystic-aquarium",
@@ -1295,11 +1295,11 @@
     "oslNote": "Yes - $5 off, up to 4 | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Daily 9-5",
     "details": null,
     "lat": 41.3734072,
-    "lng": -71.9519262
+    "lng": -71.9519262,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-stone-zoo",
@@ -1316,11 +1316,11 @@
     "oslNote": "Yes - Zoo New England pass (Coventry) | Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card) | Discount w/ a Roger Williams Zoo membership",
-    "seasonal": false,
     "hours": "Daily 10-4",
     "details": null,
     "lat": 42.4626896,
-    "lng": -71.0933856
+    "lng": -71.0933856,
+    "seasonality": "year-round"
   },
   {
     "id": "zoo-aquarium-animals-squam-lakes-natural-science-center",
@@ -1337,11 +1337,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": true,
     "hours": "Daily May-Nov",
     "details": null,
     "lat": 43.7336676,
-    "lng": -71.5900813
+    "lng": -71.5900813,
+    "seasonality": "warm"
   },
   {
     "id": "zoo-aquarium-animals-maritime-aquarium-at-norwalk",
@@ -1358,11 +1358,11 @@
     "oslNote": "Museums for All: $1-3 w/ EBT card (if participating)",
     "discount": true,
     "discountNote": "AZA reciprocal (many zoos 50% off w/ member zoo card)",
-    "seasonal": false,
     "hours": "Daily",
     "details": null,
     "lat": 41.1175966,
-    "lng": -73.4078968
+    "lng": -73.4078968,
+    "seasonality": "year-round"
   },
   {
     "id": "amusement-theme-park-yogi-bear-s-jellystone-park-cranberry-acres",
@@ -1379,11 +1379,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Day pass or camping; water zone, mini golf, gem mining, characters",
-    "seasonal": true,
     "hours": "Buy online in advance + check for season-pass",
     "details": null,
     "lat": 41.8894422,
-    "lng": -70.7693304
+    "lng": -70.7693304,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-edaville-family-theme-park-dino-land-thomas",
@@ -1399,12 +1399,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Seasonal (call ahead)",
     "details": null,
     "lat": 41.8894422,
-    "lng": -70.7693304
+    "lng": -70.7693304,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-king-richard-s-faire",
@@ -1420,12 +1420,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Weekends Sept-Oct only",
     "details": null,
     "lat": 41.8894422,
-    "lng": -70.7693304
+    "lng": -70.7693304,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-the-dinosaur-place-at-nature-s-art-village",
@@ -1441,12 +1441,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 41.4294955,
-    "lng": -72.2217123
+    "lng": -72.2217123,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-canobie-lake-park",
@@ -1462,12 +1462,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Seasonal (May-Oct)",
     "details": null,
     "lat": 42.7941945,
-    "lng": -71.2482031
+    "lng": -71.2482031,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-skyframe-treehouse",
@@ -1484,11 +1484,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 43.4387179,
-    "lng": -70.7746224
+    "lng": -70.7746224,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-quassy-amusement-park",
@@ -1504,12 +1504,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Seasonal",
     "details": null,
     "lat": 41.5267929,
-    "lng": -73.1502192
+    "lng": -73.1502192,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-six-flags-new-england",
@@ -1525,12 +1525,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 42.0390874,
-    "lng": -72.6136293
+    "lng": -72.6136293,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-palace-playland",
@@ -1547,11 +1547,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Pay-per-ride; beachfront pier rides | \u201c \u201c \u201c",
-    "seasonal": true,
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 43.5147662,
-    "lng": -70.3745008
+    "lng": -70.3745008,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-story-land",
@@ -1567,12 +1567,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Seasonal",
     "details": null,
     "lat": 44.1163813,
-    "lng": -71.1807261
+    "lng": -71.1807261,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-playland-amusement-park",
@@ -1589,11 +1589,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Wristband/per-ride; historic kiddieland | \u201c \u201c \u201c",
-    "seasonal": true,
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 40.9821371,
-    "lng": -73.6840902
+    "lng": -73.6840902,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-santa-s-village",
@@ -1609,12 +1609,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "May-Dec",
     "details": null,
     "lat": 44.4269659,
-    "lng": -71.49584
+    "lng": -71.49584,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-diggerland-usa",
@@ -1630,12 +1630,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 39.8126972,
-    "lng": -74.9229042
+    "lng": -74.9229042,
+    "seasonality": "warm"
   },
   {
     "id": "amusement-theme-park-wild-west-city",
@@ -1651,12 +1651,12 @@
     "oslFree": false,
     "oslNote": null,
     "discount": true,
-    "discountNote": "\u201c \u201c \u201c",
-    "seasonal": true,
+    "discountNote": "Buy online in advance + check for season-pass",
     "hours": "Daily (seasonal)",
     "details": null,
     "lat": 40.9028765,
-    "lng": -74.7090517
+    "lng": -74.7090517,
+    "seasonality": "warm"
   },
   {
     "id": "nature-coaster-ride-rail-explorers-railbike",
@@ -1673,11 +1673,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6024068,
-    "lng": -71.2503157
+    "lng": -71.2503157,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-gunstock-mountain-coaster",
@@ -1694,11 +1694,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.5446493,
-    "lng": -71.3700897
+    "lng": -71.3700897,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-berkshire-east-mountain-coaster-alpine",
@@ -1715,11 +1715,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.6275354,
-    "lng": -72.874488
+    "lng": -72.874488,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-jiminy-peak-mountain-coaster",
@@ -1736,11 +1736,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.5431855,
-    "lng": -73.318461
+    "lng": -73.318461,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-okemo-timber-ripper-coaster",
@@ -1757,11 +1757,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.3961459,
-    "lng": -72.7011648
+    "lng": -72.7011648,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-cranmore-mountain-adventure-park-coaster",
@@ -1778,11 +1778,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.037776,
-    "lng": -71.1238246
+    "lng": -71.1238246,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-killington-mountain-coaster",
@@ -1799,11 +1799,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.67433,
-    "lng": -72.7784445
+    "lng": -72.7784445,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-mount-washington-cog-railway",
@@ -1820,11 +1820,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.2599728,
-    "lng": -71.4430242
+    "lng": -71.4430242,
+    "seasonality": "year-round"
   },
   {
     "id": "nature-coaster-ride-bromley-mountain-adventure",
@@ -1841,11 +1841,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Per-ride/day pass; Kids 38-48\" ride free w/ adult; solo age 6+. Giant swing, waterslide, mini golf",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.2298853,
-    "lng": -72.8992081
+    "lng": -72.8992081,
+    "seasonality": "year-round"
   },
   {
     "id": "cave-geology-polar-caves-park",
@@ -1862,11 +1862,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.7811989,
-    "lng": -71.7811164
+    "lng": -71.7811164,
+    "seasonality": "year-round"
   },
   {
     "id": "cave-geology-lost-river-gorge-boulder-caves",
@@ -1883,11 +1883,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.0313095,
-    "lng": -71.6868203
+    "lng": -71.6868203,
+    "seasonality": "year-round"
   },
   {
     "id": "cave-geology-herkimer-diamond-mines",
@@ -1904,11 +1904,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.4911326,
-    "lng": -74.9481252
+    "lng": -74.9481252,
+    "seasonality": "year-round"
   },
   {
     "id": "cave-geology-howe-caverns",
@@ -1925,11 +1925,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.6957642,
-    "lng": -74.3987702
+    "lng": -74.3987702,
+    "seasonality": "year-round"
   },
   {
     "id": "cave-geology-indian-echo-caverns",
@@ -1946,11 +1946,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 40.2528358,
-    "lng": -76.7168808
+    "lng": -76.7168808,
+    "seasonality": "year-round"
   },
   {
     "id": "splash-pad-fargnoli-park",
@@ -1967,11 +1967,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8420296,
-    "lng": -71.4423954
+    "lng": -71.4423954,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-hasbro-s-boundless-big-backyard-water-features",
@@ -1988,11 +1988,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-veterans-memorial-park",
@@ -2009,11 +2009,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8873726,
-    "lng": -71.3876472
+    "lng": -71.3876472,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-payne-park-splash-pad",
@@ -2030,11 +2030,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8789531,
-    "lng": -71.3821203
+    "lng": -71.3821203,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-john-street-park-new",
@@ -2051,11 +2051,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8789531,
-    "lng": -71.3821203
+    "lng": -71.3821203,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-cooney-playground",
@@ -2072,11 +2072,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.779588,
-    "lng": -71.4366813
+    "lng": -71.4366813,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-onna-moniz-john-park",
@@ -2093,11 +2093,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8227551,
-    "lng": -71.3684741
+    "lng": -71.3684741,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-world-war-ii-memorial-park",
@@ -2114,11 +2114,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.0092708,
-    "lng": -71.5061438
+    "lng": -71.5061438,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-johnston-war-memorial-park",
@@ -2135,11 +2135,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-deerfield-park",
@@ -2156,11 +2156,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8804165,
-    "lng": -71.5502806
+    "lng": -71.5502806,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-police-cove-park",
@@ -2177,11 +2177,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.7371143,
-    "lng": -71.2978584
+    "lng": -71.2978584,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-wilson-park-sports-themed",
@@ -2198,11 +2198,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.5514283,
-    "lng": -71.4693875
+    "lng": -71.4693875,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-capron-park-zoo",
@@ -2219,11 +2219,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.9379713,
-    "lng": -71.2978949
+    "lng": -71.2978949,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-brooklawn-park",
@@ -2240,11 +2240,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.6749503,
-    "lng": -70.9278951
+    "lng": -70.9278951,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-pope-john-paul-ii-park",
@@ -2261,11 +2261,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.2809963,
-    "lng": -71.0426562
+    "lng": -71.0426562,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-rose-kennedy-greenway-various-fountains-rings-canal-chinatown",
@@ -2282,11 +2282,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-frog-pond-spray-pool-boston-common",
@@ -2303,11 +2303,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-christian-science-plaza-children-s-fountain",
@@ -2324,11 +2324,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-government-center-interactive-water-play-fountain",
@@ -2345,11 +2345,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-north-point-park-spray-deck",
@@ -2366,11 +2366,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3656347,
-    "lng": -71.1040018
+    "lng": -71.1040018,
+    "seasonality": "warm"
   },
   {
     "id": "splash-pad-alexander-w-kemp-playground-cambridge-common",
@@ -2387,11 +2387,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3656347,
-    "lng": -71.1040018
+    "lng": -71.1040018,
+    "seasonality": "warm"
   },
   {
     "id": "troll-hunting-troll-mrs-skipper",
@@ -2408,11 +2408,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7958792,
-    "lng": -71.3799602
+    "lng": -71.3799602,
+    "seasonality": "year-round"
   },
   {
     "id": "troll-hunting-troll-iver-mudslider",
@@ -2429,11 +2429,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5695485,
-    "lng": -71.4885046
+    "lng": -71.4885046,
+    "seasonality": "year-round"
   },
   {
     "id": "troll-hunting-troll-young-boulder",
@@ -2450,11 +2450,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5861105,
-    "lng": -71.7662259
+    "lng": -71.7662259,
+    "seasonality": "year-round"
   },
   {
     "id": "troll-hunting-troll-erik-rock",
@@ -2471,11 +2471,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.367364,
-    "lng": -71.6620459
+    "lng": -71.6620459,
+    "seasonality": "year-round"
   },
   {
     "id": "troll-hunting-troll-greta-granite",
@@ -2492,11 +2492,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3719911,
-    "lng": -71.661171
+    "lng": -71.661171,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-hasbro-s-boundless-playground",
@@ -2513,11 +2513,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-india-point-park-playground-with-a-view",
@@ -2534,11 +2534,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-kent-heights-playground",
@@ -2555,11 +2555,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8049868,
-    "lng": -71.3561682
+    "lng": -71.3561682,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-hilltop-playground",
@@ -2576,11 +2576,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.779588,
-    "lng": -71.4366813
+    "lng": -71.4366813,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-village-playground",
@@ -2597,11 +2597,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7666369,
-    "lng": -71.3899988
+    "lng": -71.3899988,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-impossible-dream-playground-inclusive",
@@ -2618,11 +2618,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6992717,
-    "lng": -71.4586114
+    "lng": -71.4586114,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-deerfield-park-playground",
@@ -2639,11 +2639,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9220433,
-    "lng": -71.549507
+    "lng": -71.549507,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-monastery-chase-farm-playground",
@@ -2660,11 +2660,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9667656,
-    "lng": -71.4328363
+    "lng": -71.4328363,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-pete-sepe-pavilion-playground",
@@ -2681,11 +2681,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7303794,
-    "lng": -71.2825494
+    "lng": -71.2825494,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-busy-b-s-family-fun-center",
@@ -2702,11 +2702,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-fairfield-playground",
@@ -2723,11 +2723,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6457687,
-    "lng": -71.4657044
+    "lng": -71.4657044,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-warren-town-beach",
@@ -2744,11 +2744,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7228679,
-    "lng": -71.2849724
+    "lng": -71.2849724,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-wilson-park-playground",
@@ -2765,11 +2765,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5514283,
-    "lng": -71.4693875
+    "lng": -71.4693875,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-portsmouth-community-playground",
@@ -2786,11 +2786,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6024068,
-    "lng": -71.2503157
+    "lng": -71.2503157,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-glocester-memorial-park-playground",
@@ -2807,11 +2807,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.910429,
-    "lng": -71.7176367
+    "lng": -71.7176367,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-wilson-creek-wickford-playground",
@@ -2828,11 +2828,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5514283,
-    "lng": -71.4693875
+    "lng": -71.4693875,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-rockwell-park",
@@ -2849,11 +2849,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6689396,
-    "lng": -71.2777917
+    "lng": -71.2777917,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-jamestown-community-playground",
@@ -2870,11 +2870,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4970465,
-    "lng": -71.3672755
+    "lng": -71.3672755,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-kings-park",
@@ -2891,11 +2891,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4899827,
-    "lng": -71.3137707
+    "lng": -71.3137707,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-pope-john-paul-ii-park",
@@ -2912,11 +2912,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2809963,
-    "lng": -71.0426562
+    "lng": -71.0426562,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-castle-in-the-trees",
@@ -2933,11 +2933,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.5375917,
-    "lng": -71.5120096
+    "lng": -71.5120096,
+    "seasonality": "year-round"
   },
   {
     "id": "playground-greenwood-park-nature-themed-playground",
@@ -2954,11 +2954,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.4802635,
-    "lng": -71.0993581
+    "lng": -71.0993581,
+    "seasonality": "year-round"
   },
   {
     "id": "lighthouse-point-judith-lighthouse",
@@ -2975,11 +2975,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3610358,
-    "lng": -71.4814009
+    "lng": -71.4814009,
+    "seasonality": "year-round"
   },
   {
     "id": "lighthouse-castle-hill-lighthouse",
@@ -2996,11 +2996,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4621497,
-    "lng": -71.3629066
+    "lng": -71.3629066,
+    "seasonality": "year-round"
   },
   {
     "id": "lighthouse-scituate-lighthouse",
@@ -3017,11 +3017,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2047629,
-    "lng": -70.7158219
+    "lng": -70.7158219,
+    "seasonality": "year-round"
   },
   {
     "id": "lighthouse-nubble-light-cape-neddick",
@@ -3038,11 +3038,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.1651998,
-    "lng": -70.5911047
+    "lng": -70.5911047,
+    "seasonality": "year-round"
   },
   {
     "id": "lighthouse-pemaquid-point-lighthouse-5",
@@ -3059,11 +3059,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.9574526,
-    "lng": -69.509244
+    "lng": -69.509244,
+    "seasonality": "year-round"
   },
   {
     "id": "farm-pick-your-own-stateline-farm-pony-rides-verify",
@@ -3080,11 +3080,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": "Pony rides + farm animals for young kids. Location needs verification (RI/MA border area).",
     "lat": 41.9667656,
-    "lng": -71.4328363
+    "lng": -71.4328363,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-sunset-stables",
@@ -3101,11 +3101,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Trail rides (riders 8+); pony rides for littles; year-round",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8976807,
-    "lng": -71.4396423
+    "lng": -71.4396423,
+    "seasonality": "year-round"
   },
   {
     "id": "farm-pick-your-own-dame-farm-orchards",
@@ -3122,11 +3122,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO flowers/blueberries/apples + wagon rides; by Snake Den",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-confreda-farms-fall-fest",
@@ -3143,11 +3143,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Hayride, train, corn maze, PYO pumpkins (fall)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.779588,
-    "lng": -71.4366813
+    "lng": -71.4366813,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-pezza-farm-fall-festival",
@@ -3164,11 +3164,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Hayride to pumpkin patch, feed the cows, scarecrows, cider",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-salisbury-farm",
@@ -3185,11 +3185,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO + corn maze (fall)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.793457,
-    "lng": -71.5514185
+    "lng": -71.5514185,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-jaswell-s-farm",
@@ -3206,11 +3206,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO apples/berries; candy apples, cider donut ice cream sandwich",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8897845,
-    "lng": -71.5495047
+    "lng": -71.5495047,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-appleland-orchard",
@@ -3227,11 +3227,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO apples + fall activities + farm store (pies, cider)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8640805,
-    "lng": -71.574857
+    "lng": -71.574857,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-steere-orchard",
@@ -3248,11 +3248,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO apples; scenic orchard",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.9220433,
-    "lng": -71.549507
+    "lng": -71.549507,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-coggeshall-farm-museum",
@@ -3269,11 +3269,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.6723858,
-    "lng": -71.2961363
+    "lng": -71.2961363,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-barden-family-orchard",
@@ -3290,11 +3290,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO apples/berries",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8317661,
-    "lng": -71.5872858
+    "lng": -71.5872858,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-harmony-farms-pyo-blueberries",
@@ -3311,11 +3311,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO blueberries (Jul-Aug)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.8317661,
-    "lng": -71.5872858
+    "lng": -71.5872858,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-schartner-farms",
@@ -3332,11 +3332,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO + animals + play; big fall festival",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.5774793,
-    "lng": -71.5376881
+    "lng": -71.5376881,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-westport-westplace-animal-sanct",
@@ -3353,11 +3353,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.6220399,
-    "lng": -71.0780195
+    "lng": -71.0780195,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-ward-s-berry-farm",
@@ -3374,11 +3374,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.1237328,
-    "lng": -71.1787282
+    "lng": -71.1787282,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-newport-equestrian-academy",
@@ -3395,11 +3395,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Lessons + beach trail rides + pony rides; (check age reqs.)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.5456578,
-    "lng": -71.2914388
+    "lng": -71.2914388,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-stepping-stone-ranch",
@@ -3416,11 +3416,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Working ranch - trail rides, pony rides, events/festivals",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.6226185,
-    "lng": -71.6657892
+    "lng": -71.6657892,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-sweet-berry-farm",
@@ -3437,11 +3437,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO with coastal views + big farm market/cafe",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.5146521,
-    "lng": -71.2598397
+    "lng": -71.2598397,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-clark-farms-matunuck",
@@ -3458,11 +3458,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Pumpkin patch + corn maze + petting zoo + hayrides",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.454944,
-    "lng": -71.5394738
+    "lng": -71.5394738,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-tougas-family-farm",
@@ -3479,11 +3479,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO + barnyard + wagon rides + ice cream",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3448142,
-    "lng": -71.6784813
+    "lng": -71.6784813,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-lookout-farm",
@@ -3500,11 +3500,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.2581743,
-    "lng": -71.3108755
+    "lng": -71.3108755,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-lilac-hedge-farm-animals-play",
@@ -3521,11 +3521,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Farm store + animals + play space",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.3560836,
-    "lng": -71.8623548
+    "lng": -71.8623548,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-davis-mega-farm-maze",
@@ -3542,11 +3542,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Mega maze + fall festival + animals",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.4374411,
-    "lng": -71.7601869
+    "lng": -71.7601869,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-davis-farmland",
@@ -3563,11 +3563,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.4384554,
-    "lng": -71.7240661
+    "lng": -71.7240661,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-davis-mega-maze",
@@ -3584,11 +3584,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Separate ticket; giant corn maze + field games (fall)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.4384554,
-    "lng": -71.7240661
+    "lng": -71.7240661,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-kimball-farm",
@@ -3605,11 +3605,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Mini golf, bumper boats, pony rides, zipline, 50-flavor ice cream",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.5504016,
-    "lng": -71.4590548
+    "lng": -71.4590548,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-stone-cow-brewery-farm-play",
@@ -3626,11 +3626,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Farm brewery + animals + play space",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.4228006,
-    "lng": -72.1051592
+    "lng": -72.1051592,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-honey-pot-hill-orchards",
@@ -3647,11 +3647,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Best in US; PYO + mazes + animals + feeding chute + cider donuts",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.410768,
-    "lng": -71.5167152
+    "lng": -71.5167152,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-smolak-farms",
@@ -3668,11 +3668,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO + farm animals + playground + hayrides + market",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.7029687,
-    "lng": -71.1309117
+    "lng": -71.1309117,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-great-brook-farm-state-park",
@@ -3689,11 +3689,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.5509625,
-    "lng": -71.3447931
+    "lng": -71.3447931,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-heritage-farm-pancake-house",
@@ -3710,11 +3710,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Pancakes + animals/playground",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 43.4387179,
-    "lng": -70.7746224
+    "lng": -70.7746224,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-moolicious-farm",
@@ -3731,11 +3731,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Ice cream + farm animals + play",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.6362097,
-    "lng": -72.2125789
+    "lng": -72.2125789,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-parker-s-maple-barn",
@@ -3752,11 +3752,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Maple-farm breakfast in the woods",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.7411698,
-    "lng": -71.7204032
+    "lng": -71.7204032,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-lyman-orchards",
@@ -3773,11 +3773,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO + corn maze + APPLE CANNON (100mph!) + farm market",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.4942216,
-    "lng": -72.7280592
+    "lng": -72.7280592,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-felix-family-farm",
@@ -3794,11 +3794,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO + animals",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.5517228,
-    "lng": -71.139871
+    "lng": -71.139871,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-red-apple-farm",
@@ -3815,11 +3815,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "PYO apples + farm animals + cider donuts + country store",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.5820576,
-    "lng": -72.1461876
+    "lng": -72.1461876,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-clover-brooke-farm",
@@ -3836,11 +3836,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Alpaca/goat encounters, animal experiences",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.7841956,
-    "lng": -73.9373912
+    "lng": -73.9373912,
+    "seasonality": "warm"
   },
   {
     "id": "farm-pick-your-own-kelder-farm",
@@ -3857,11 +3857,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Varies; mini golf, maze, world's-largest gnome, headless horseman",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.769222,
-    "lng": -74.3007553
+    "lng": -74.3007553,
+    "seasonality": "warm"
   },
   {
     "id": "hiking-nature-moshassuck-river-greenway-preserve",
@@ -3878,11 +3878,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9368238,
-    "lng": -71.4733029
+    "lng": -71.4733029,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-wanskuck-park",
@@ -3899,11 +3899,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8598466,
-    "lng": -71.4318092
+    "lng": -71.4318092,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-mowry-conservation-area",
@@ -3920,11 +3920,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9204554,
-    "lng": -71.5527624
+    "lng": -71.5527624,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-snake-den-state-park",
@@ -3941,11 +3941,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-chase-farm-trails",
@@ -3962,11 +3962,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9529237,
-    "lng": -71.4663863
+    "lng": -71.4663863,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-touisset-marsh-wildlife-refuge",
@@ -3983,11 +3983,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7052056,
-    "lng": -71.2383536
+    "lng": -71.2383536,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-benson-preserve-casey-farm-area",
@@ -4004,11 +4004,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5078795,
-    "lng": -71.4245004
+    "lng": -71.4245004,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-weetamoo-woods",
@@ -4025,11 +4025,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5853718,
-    "lng": -71.1771369
+    "lng": -71.1771369,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-stepstone-falls",
@@ -4046,11 +4046,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6122167,
-    "lng": -71.7601821
+    "lng": -71.7601821,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-cliff-walk",
@@ -4067,11 +4067,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.460753,
-    "lng": -71.3036387
+    "lng": -71.3036387,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-norman-bird-sanctuary",
@@ -4088,11 +4088,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4982457,
-    "lng": -71.2532249
+    "lng": -71.2532249,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-fort-adams-state-park",
@@ -4109,11 +4109,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4757726,
-    "lng": -71.3387603
+    "lng": -71.3387603,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-whale-rock-preserve",
@@ -4130,11 +4130,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4325574,
-    "lng": -71.4579836
+    "lng": -71.4579836,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-arcadia-management-area",
@@ -4151,11 +4151,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6034288,
-    "lng": -71.7035662
+    "lng": -71.7035662,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-allens-pond-wildlife-sanctuary",
@@ -4172,11 +4172,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5175643,
-    "lng": -71.0208237
+    "lng": -71.0208237,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-fort-taber-fort-rodman-park",
@@ -4193,11 +4193,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6362152,
-    "lng": -70.934205
+    "lng": -70.934205,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-purgatory-chasm-state-reservation",
@@ -4214,11 +4214,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.1287313,
-    "lng": -71.7169151
+    "lng": -71.7169151,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-farm-pond-park",
@@ -4235,11 +4235,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2801345,
-    "lng": -71.4302638
+    "lng": -71.4302638,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-world-s-end-trustees",
@@ -4256,11 +4256,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2417669,
-    "lng": -70.8897676
+    "lng": -70.8897676,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-bancroft-s-castle-ruins-hike",
@@ -4277,11 +4277,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.6112242,
-    "lng": -71.5745402
+    "lng": -71.5745402,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-brookline-reservoir",
@@ -4298,11 +4298,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3267935,
-    "lng": -71.1363686
+    "lng": -71.1363686,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-america-s-stonehenge",
@@ -4319,11 +4319,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.8437862,
-    "lng": -71.2057378
+    "lng": -71.2057378,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-ponemah-bog",
@@ -4340,11 +4340,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.816724,
-    "lng": -71.5828027
+    "lng": -71.5828027,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-sheldrick-forest-preserve",
@@ -4361,11 +4361,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.825531,
-    "lng": -71.7961738
+    "lng": -71.7961738,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-the-knob",
@@ -4382,11 +4382,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.542386,
-    "lng": -70.6613309
+    "lng": -70.6613309,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-heritage-park-trail-ravenswood",
@@ -4403,11 +4403,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.6153595,
-    "lng": -70.6624608
+    "lng": -70.6624608,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-bass-hole-boardwalk-gray-s-beach",
@@ -4424,11 +4424,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7056656,
-    "lng": -70.2286314
+    "lng": -70.2286314,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-marginal-way",
@@ -4445,11 +4445,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.2443426,
-    "lng": -70.5912412
+    "lng": -70.5912412,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-mohegan-bluffs-140-step-stair",
@@ -4466,11 +4466,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.1895772,
-    "lng": -71.5679001
+    "lng": -71.5679001,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-harry-c-barnes-memorial-nature-center",
@@ -4487,11 +4487,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6711752,
-    "lng": -72.9430128
+    "lng": -72.9430128,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-great-island-trail",
@@ -4508,11 +4508,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9323945,
-    "lng": -70.0681376
+    "lng": -70.0681376,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-high-ledges-mass-audubon",
@@ -4529,11 +4529,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.5836417,
-    "lng": -72.71109
+    "lng": -72.71109,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-castle-in-the-clouds-brook-walk-falls",
@@ -4550,11 +4550,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.7552444,
-    "lng": -71.396024
+    "lng": -71.396024,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-sculptured-rocks-natural-area",
@@ -4571,11 +4571,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.702133,
-    "lng": -71.836166
+    "lng": -71.836166,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-flume-gorge",
@@ -4592,11 +4592,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.1001261,
-    "lng": -71.6696501
+    "lng": -71.6696501,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-cathedral-ledge",
@@ -4613,11 +4613,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.037776,
-    "lng": -71.1238246
+    "lng": -71.1238246,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-madison-boulder-natural-area",
@@ -4634,11 +4634,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.9311302,
-    "lng": -71.1679787
+    "lng": -71.1679787,
+    "seasonality": "year-round"
   },
   {
     "id": "hiking-nature-dorset-quarry-marble-swimming-hole",
@@ -4655,11 +4655,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.2397974,
-    "lng": -73.00927
+    "lng": -73.00927,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-rwp-botanical-center",
@@ -4676,11 +4676,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-blithewold-mansion-gardens-arboretum",
@@ -4697,11 +4697,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6770463,
-    "lng": -71.2661597
+    "lng": -71.2661597,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-wicked-tulips-flower-farm",
@@ -4718,11 +4718,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": "Timed tickets via site",
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "warm"
   },
   {
     "id": "garden-green-animals-topiary-garden",
@@ -4739,11 +4739,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Newport Mansions combo | Preservation Society multi-house combo saves vs single tickets",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.600237,
-    "lng": -71.2752627
+    "lng": -71.2752627,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-kinney-azalea-gardens",
@@ -4760,11 +4760,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.473211,
-    "lng": -71.5224977
+    "lng": -71.5224977,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-the-blue-garden",
@@ -4781,11 +4781,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4638647,
-    "lng": -71.3357874
+    "lng": -71.3357874,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-sakonnet-garden",
@@ -4802,11 +4802,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5101085,
-    "lng": -71.1711648
+    "lng": -71.1711648,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-allen-c-haskell",
@@ -4823,11 +4823,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "The Trustees membership = free entry to all their sites",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6362152,
-    "lng": -70.934205
+    "lng": -70.934205,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-wilcox-park",
@@ -4844,11 +4844,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3783518,
-    "lng": -71.8282108
+    "lng": -71.8282108,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-garden-in-the-woods",
@@ -4865,11 +4865,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3412853,
-    "lng": -71.4275444
+    "lng": -71.4275444,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-the-garden-at-elm-bank",
@@ -4886,11 +4886,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2964859,
-    "lng": -71.2925571
+    "lng": -71.2925571,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-elizabeth-park-conservancy",
@@ -4907,11 +4907,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7763053,
-    "lng": -72.7182894
+    "lng": -72.7182894,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-crane-estate-castle-hill",
@@ -4928,11 +4928,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Grounds fee; Great House + Grand Allee to sea | The Trustees membership = free entry to all their sites",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.679273,
-    "lng": -70.8411583
+    "lng": -70.8411583,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-bedrock-gardens",
@@ -4949,11 +4949,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.0935332,
-    "lng": -71.0421689
+    "lng": -71.0421689,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-naumkeag-trustees",
@@ -4970,11 +4970,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "The Trustees membership = free entry to all their sites",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.282398,
-    "lng": -73.3123684
+    "lng": -73.3123684,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-the-mount-edith-wharton",
@@ -4991,11 +4991,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3309818,
-    "lng": -73.2820391
+    "lng": -73.2820391,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-ashintully-gardens",
@@ -5012,11 +5012,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "The Trustees membership = free entry to all their sites",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2117529,
-    "lng": -73.1703061
+    "lng": -73.1703061,
+    "seasonality": "year-round"
   },
   {
     "id": "garden-coastal-maine-botanical",
@@ -5033,11 +5033,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.8736894,
-    "lng": -69.6607325
+    "lng": -69.6607325,
+    "seasonality": "year-round"
   },
   {
     "id": "sculpture-art-park-decordova",
@@ -5054,11 +5054,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.4299852,
-    "lng": -71.3111241
+    "lng": -71.3111241,
+    "seasonality": "year-round"
   },
   {
     "id": "sculpture-art-park-alnoba",
@@ -5075,11 +5075,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.9140353,
-    "lng": -70.9394048
+    "lng": -70.9394048,
+    "seasonality": "warm"
   },
   {
     "id": "sculpture-art-park-hogpen-hill-farms-edward-tufte",
@@ -5096,11 +5096,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5445404,
-    "lng": -73.2090025
+    "lng": -73.2090025,
+    "seasonality": "year-round"
   },
   {
     "id": "sculpture-art-park-turnpark-art-space",
@@ -5117,11 +5117,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3326757,
-    "lng": -73.3696888
+    "lng": -73.3696888,
+    "seasonality": "year-round"
   },
   {
     "id": "ferry-providence-newport-ferry",
@@ -5138,11 +5138,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "1 hr each way",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "ferry-point-judith-block-island-ferry",
@@ -5159,11 +5159,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Full day w/ island",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4325574,
-    "lng": -71.4579836
+    "lng": -71.4579836,
+    "seasonality": "year-round"
   },
   {
     "id": "ferry-new-bedford-martha-s-vineyard-ferry",
@@ -5180,11 +5180,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Full day w/ island",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6362152,
-    "lng": -70.934205
+    "lng": -70.934205,
+    "seasonality": "year-round"
   },
   {
     "id": "ferry-capeflyer-boston-hyannis-weekend-train",
@@ -5201,11 +5201,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "2.5 hrs each way",
-    "seasonal": true,
     "hours": "~$22-40; seasonal Fri-Sun train to Cape Cod",
     "details": null,
     "lat": 42.3511854,
-    "lng": -71.0555266
+    "lng": -71.0555266,
+    "seasonality": "warm"
   },
   {
     "id": "ferry-casco-bay-lines-mailboat-portland",
@@ -5222,11 +5222,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Half day",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.6573605,
-    "lng": -70.2586618
+    "lng": -70.2586618,
+    "seasonality": "year-round"
   },
   {
     "id": "ferry-portland-lighthouse-casco-bay-cruise",
@@ -5243,11 +5243,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "2 hrs",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.6573605,
-    "lng": -70.2586618
+    "lng": -70.2586618,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-blackstone-valley-kayak-river-cruise",
@@ -5264,11 +5264,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Rentals + cruises",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8789531,
-    "lng": -71.3821203
+    "lng": -71.3821203,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-venetian-gondola-la-gondola",
@@ -5285,11 +5285,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-ri-riverboat-tour-blackstone-valley-explorer",
@@ -5306,11 +5306,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8787548,
-    "lng": -71.3917511
+    "lng": -71.3917511,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-kayak-centre-of-ri-wickford",
@@ -5327,11 +5327,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5706427,
-    "lng": -71.4527004
+    "lng": -71.4527004,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-boston-swan-boats-public-garden",
@@ -5348,11 +5348,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-charles-river-kayak-sup-rental",
@@ -5369,11 +5369,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3656347,
-    "lng": -71.1040018
+    "lng": -71.1040018,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-argia-schooner-mystic",
@@ -5390,11 +5390,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3560375,
-    "lng": -71.9573331
+    "lng": -71.9573331,
+    "seasonality": "year-round"
   },
   {
     "id": "kayaking-boat-clear-kayak-on-green-lakes",
@@ -5411,11 +5411,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Clear kayak on turquoise glacial lake",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.0297887,
-    "lng": -76.0043643
+    "lng": -76.0043643,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-happy-valley-arcade-bar",
@@ -5432,11 +5432,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Per-game; arcade + food (family hrs)",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-pink-bean-coffee-playground",
@@ -5453,11 +5453,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Coffee + on-site playground",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.808434,
-    "lng": -71.3369973
+    "lng": -71.3369973,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-iggy-s-doughboys-chowder-house",
@@ -5474,11 +5474,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Per item; on the water, boardwalk + beach",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6844964,
-    "lng": -71.3980302
+    "lng": -71.3980302,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-silver-stone-castle-family-entertainment",
@@ -5495,11 +5495,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.7441365,
-    "lng": -71.1996008
+    "lng": -71.1996008,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-busy-b-s-family-fun-center",
@@ -5516,11 +5516,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": "Drop-in indoor play (+ supervised-care model); pricing not posted - call ahead",
     "details": null,
     "lat": 41.8310404,
-    "lng": -71.5412101
+    "lng": -71.5412101,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-briggs-nursery-cafe-playground",
@@ -5537,11 +5537,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Cafe + garden center + playground | Ryan Family Amusements (arcade) | Newport/Buzzards Bay area | 40 | Per-game/card; bowling + arcade",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.9841334,
-    "lng": -71.3322798
+    "lng": -71.3322798,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-fantastic-umbrella-factory",
@@ -5558,11 +5558,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3831566,
-    "lng": -71.641729
+    "lng": -71.641729,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-level-99",
@@ -5579,11 +5579,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.3012161,
-    "lng": -71.3813008
+    "lng": -71.3813008,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-flashback-retro-arcade",
@@ -5600,11 +5600,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Day pass; retro arcade games",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.0344468,
-    "lng": -87.9056667
+    "lng": -87.9056667,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-moolicious-farm-ice-cream-animals",
@@ -5621,11 +5621,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Ice cream + farm animals + play",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6362097,
-    "lng": -72.2125789
+    "lng": -72.2125789,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-john-hay-library-human-skin-book",
@@ -5642,11 +5642,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-gun-totem",
@@ -5663,11 +5663,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-musee-patamecanique",
@@ -5684,11 +5684,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "By appointment only; surreal \"cabinet of curiosities\" - whereabouts deliberately mysterious.",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.6770463,
-    "lng": -71.2661597
+    "lng": -71.2661597,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-book-barn",
@@ -5705,11 +5705,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3220302,
-    "lng": -72.2082163
+    "lng": -72.2082163,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-fivehands-curiosity-shoppe",
@@ -5726,11 +5726,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.5195292,
-    "lng": -70.8967226
+    "lng": -70.8967226,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-count-orlok-s-nightmare-gallery",
@@ -5747,11 +5747,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.521452,
-    "lng": -70.8947819
+    "lng": -70.8947819,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-yankee-candle-flagship-village",
@@ -5768,11 +5768,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.4773046,
-    "lng": -72.6079039
+    "lng": -72.6079039,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-the-vermont-country-store",
@@ -5789,11 +5789,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.2917153,
-    "lng": -72.7932204
+    "lng": -72.7932204,
+    "seasonality": "year-round"
   },
   {
     "id": "novel-shop-perry-s-nut-house",
@@ -5810,11 +5810,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 44.4332225,
-    "lng": -68.9984746
+    "lng": -68.9984746,
+    "seasonality": "year-round"
   },
   {
     "id": "beach-sandy-lincoln-woods-state-park-pond-beach",
@@ -5831,11 +5831,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.9529237,
-    "lng": -71.4663863
+    "lng": -71.4663863,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-barrington-town-beach",
@@ -5852,11 +5852,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.7407661,
-    "lng": -71.3084633
+    "lng": -71.3084633,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-goddard-memorial-state-park-beach",
@@ -5873,11 +5873,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.6672262,
-    "lng": -71.4317091
+    "lng": -71.4317091,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-bristol-town-beach",
@@ -5894,11 +5894,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.687301,
-    "lng": -71.2933722
+    "lng": -71.2933722,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-narragansett-town-beach",
@@ -5915,11 +5915,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.4363977,
-    "lng": -71.453367
+    "lng": -71.453367,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-second-beach-sachuest",
@@ -5936,11 +5936,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.5456578,
-    "lng": -71.2914388
+    "lng": -71.2914388,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-east-matunuck-state-beach",
@@ -5957,11 +5957,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.3758043,
-    "lng": -71.5168095
+    "lng": -71.5168095,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-wingaersheek-beach",
@@ -5978,11 +5978,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.6500786,
-    "lng": -70.6842115
+    "lng": -70.6842115,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-crane-beach",
@@ -5999,11 +5999,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.6784231,
-    "lng": -70.741443
+    "lng": -70.741443,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-niles-beach",
@@ -6020,11 +6020,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.5959118,
-    "lng": -70.6544293
+    "lng": -70.6544293,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-hampton-beach-boardwalk-arcades",
@@ -6041,11 +6041,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.9417199,
-    "lng": -70.8378746
+    "lng": -70.8378746,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-salisbury-beach-state-reservation",
@@ -6062,11 +6062,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 42.8316993,
-    "lng": -70.8265015
+    "lng": -70.8265015,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-steps-beach-nantucket-ferry-required",
@@ -6083,11 +6083,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "Ferry from Hyannis",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.2844408,
-    "lng": -70.09842
+    "lng": -70.09842,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-old-orchard-beach-palace-playland-pier",
@@ -6104,11 +6104,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 43.5075575,
-    "lng": -70.3561571
+    "lng": -70.3561571,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-reid-state-park-tide-pools",
@@ -6125,11 +6125,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 43.8042909,
-    "lng": -69.7555099
+    "lng": -69.7555099,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-sewall-beach-via-morse-mtn-1-5-mile-walk-in-wild-tide-pools",
@@ -6146,11 +6146,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 43.820638,
-    "lng": -69.8147684
+    "lng": -69.8147684,
+    "seasonality": "warm"
   },
   {
     "id": "beach-sandy-pemaquid-beach-par-tide-pools-light-house-k",
@@ -6167,11 +6167,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 43.9574526,
-    "lng": -69.509244
+    "lng": -69.509244,
+    "seasonality": "warm"
   },
   {
     "id": "sea-glass-beach-mackerel-cove",
@@ -6188,11 +6188,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.4887233,
-    "lng": -71.3813555
+    "lng": -71.3813555,
+    "seasonality": "warm"
   },
   {
     "id": "sea-glass-beach-east-beach-ninigret",
@@ -6209,11 +6209,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.3831566,
-    "lng": -71.641729
+    "lng": -71.641729,
+    "seasonality": "warm"
   },
   {
     "id": "sea-glass-beach-charlestown-breachway",
@@ -6230,11 +6230,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.3568987,
-    "lng": -71.6379991
+    "lng": -71.6379991,
+    "seasonality": "warm"
   },
   {
     "id": "sea-glass-beach-napatree-point",
@@ -6251,11 +6251,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI resident beach season pass $30 = all 8 state beaches (beachparkingri.com)",
-    "seasonal": true,
     "hours": null,
     "details": null,
     "lat": 41.3068911,
-    "lng": -71.8860984
+    "lng": -71.8860984,
+    "seasonality": "warm"
   },
   {
     "id": "sea-glass-beach-esker-point-beach",
@@ -6272,11 +6272,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3222292,
-    "lng": -72.0002581
+    "lng": -72.0002581,
+    "seasonality": "year-round"
   },
   {
     "id": "sea-glass-beach-rocky-neck-state-park",
@@ -6293,11 +6293,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3085598,
-    "lng": -72.2451153
+    "lng": -72.2451153,
+    "seasonality": "year-round"
   },
   {
     "id": "sea-glass-beach-ocean-beach-park",
@@ -6314,11 +6314,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3086938,
-    "lng": -72.1002281
+    "lng": -72.1002281,
+    "seasonality": "year-round"
   },
   {
     "id": "sea-glass-beach-hammonasset-beach-state-park",
@@ -6335,11 +6335,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.2619608,
-    "lng": -72.5574386
+    "lng": -72.5574386,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-beavertail-state-park",
@@ -6356,11 +6356,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI state parks free entry",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4571591,
-    "lng": -71.3953264
+    "lng": -71.3953264,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-fort-wetherill-state-park",
@@ -6377,11 +6377,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI state parks free entry",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4789274,
-    "lng": -71.3657391
+    "lng": -71.3657391,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-black-point-rocky-shelves",
@@ -6398,11 +6398,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI state parks free entry",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.4325574,
-    "lng": -71.4579836
+    "lng": -71.4579836,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-sachuest-point-nwr",
@@ -6419,11 +6419,11 @@
     "oslNote": null,
     "discount": true,
     "discountNote": "RI state parks free entry",
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.5456578,
-    "lng": -71.2914388
+    "lng": -71.2914388,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-bluff-point-state-park-coastal",
@@ -6440,11 +6440,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.34655,
-    "lng": -72.0388786
+    "lng": -72.0388786,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-marblehead-crowninshield-gerry-islands",
@@ -6461,11 +6461,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.500096,
-    "lng": -70.8578253
+    "lng": -70.8578253,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-marblehead-back-coves",
@@ -6482,11 +6482,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.500096,
-    "lng": -70.8578253
+    "lng": -70.8578253,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-halibut-point-state-park",
@@ -6503,11 +6503,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.6892578,
-    "lng": -70.6328498
+    "lng": -70.6328498,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-odiorne-point-state-park-seacoast-science-ctr",
@@ -6524,11 +6524,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.0120186,
-    "lng": -70.7719426
+    "lng": -70.7719426,
+    "seasonality": "year-round"
   },
   {
     "id": "tide-pools-pemaquid-point-tide-pools",
@@ -6545,11 +6545,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 43.9574526,
-    "lng": -69.509244
+    "lng": -69.509244,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-wickford-village",
@@ -6566,11 +6566,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Tiny harbor village, duck-feeding, kayak launch, penny-candy shop feel.",
     "lat": 41.5711941,
-    "lng": -71.4524181
+    "lng": -71.4524181,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-wakefield-kingston",
@@ -6587,11 +6587,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Old Mountain Field playground, ice cream, easy small-town wandering near the beaches.",
     "lat": 41.4892237,
-    "lng": -71.5360679
+    "lng": -71.5360679,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-tiverton-four-corners",
@@ -6608,11 +6608,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Gray's Ice Cream, art barns, farm stands - a short, sweet stop.",
     "lat": 41.5709361,
-    "lng": -71.1878236
+    "lng": -71.1878236,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-aquidneck-island-newport-middletown-portsmouth",
@@ -6629,11 +6629,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "The whole island: Newport harbor, Middletown beaches + Norman Bird, Portsmouth's Green Animals + railbike + big playground. Easy to base a whole-day loop here.",
     "lat": 41.5524601,
-    "lng": -71.2704553
+    "lng": -71.2704553,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-newport-waterfront-bowen-s-wharf-harbor",
@@ -6650,11 +6650,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Boats & gulls, harbor seals sometimes, ice cream, climb on the rocks at King Park; pair with Green Animals topiary or Cliff Walk.",
     "lat": 41.4899827,
-    "lng": -71.3137707
+    "lng": -71.3137707,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-duxbury-beach-powder-point-bridge",
@@ -6671,11 +6671,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Walk the long wooden Powder Point Bridge, tide flats with crabs, calm beach.",
     "lat": 42.0417695,
-    "lng": -70.672259
+    "lng": -70.672259,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-westerly-watch-hill-flying-horse-carousel",
@@ -6692,11 +6692,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Ride the antique Flying Horse Carousel, beach, Taylor Swift's house from afar, ice cream.",
     "lat": 41.3775996,
-    "lng": -71.8272911
+    "lng": -71.8272911,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-boston-common-greenway-freedom-trail",
@@ -6713,11 +6713,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Frog Pond + carousel + the Greenway's giant rings fountain kids run through; ducklings statues (Make Way for Ducklings); swan boats.",
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-sowa-open-market",
@@ -6734,11 +6734,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Food trucks, street art, makers - easy graze-and-wander on a Sunday.",
     "lat": 42.3588336,
-    "lng": -71.0578303
+    "lng": -71.0578303,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-mystic-drawbridge-olde-mistick-village",
@@ -6755,11 +6755,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Watch the bascule bridge lift, ducks at the village pond, ice cream, pair with the aquarium or seaport.",
     "lat": 41.3560375,
-    "lng": -71.9573331
+    "lng": -71.9573331,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-marblehead-harbor-tide-pool-islands",
@@ -6776,11 +6776,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "At low tide walk out to Crowninshield & Gerry Islands; lots of crabs and snails in the coves.",
     "lat": 42.500096,
-    "lng": -70.8578253
+    "lng": -70.8578253,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-book-barn",
@@ -6797,11 +6797,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 41.3220302,
-    "lng": -72.2082163
+    "lng": -72.2082163,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-martha-s-vineyard-oak-bluffs-edgartown",
@@ -6818,11 +6818,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Flying Horses Carousel (oldest in US, grab the brass ring), gingerbread cottages, beaches, ferry ride is half the fun.",
     "lat": 41.3920455,
-    "lng": -70.6208138
+    "lng": -70.6208138,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-rockport-bearskin-neck",
@@ -6839,11 +6839,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Artsy peninsula of shops + the famous red fishing shack (Motif #1) + tide pools at Old Garden Beach.",
     "lat": 42.657691,
-    "lng": -70.6175651
+    "lng": -70.6175651,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-salem-waterfront-witch-lore-museums",
@@ -6860,11 +6860,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Pirate museum, tall ship, friendly-spooky vibe, harbor; not-too-scary for a 5yo if you skip the gory exhibits.",
     "lat": 42.5195292,
-    "lng": -70.8967226
+    "lng": -70.8967226,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-york-nubble-light-york-s-wild-kingdom",
@@ -6881,11 +6881,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Nubble Lighthouse photo op + a small zoo/amusement park (York's Wild Kingdom).",
     "lat": 43.4229305,
-    "lng": -70.6546639
+    "lng": -70.6546639,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-block-island-mohegan-bluffs-beaches",
@@ -6902,11 +6902,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Ferry adventure + the 140-step staircase down the bluffs + beaches + bike/moped the island.",
     "lat": 41.1895772,
-    "lng": -71.5679001
+    "lng": -71.5679001,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-provincetown-cape-cod-towns",
@@ -6923,11 +6923,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Whale-watch boats leave from here, dunes to run, taffy shops, Pilgrim Monument to climb.",
     "lat": 41.7987588,
-    "lng": -69.9960655
+    "lng": -69.9960655,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-nantucket",
@@ -6944,11 +6944,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Cobblestone streets, ice cream, whaling museum, beaches, ferry ride. Bikeable, walkable, very kid-doable as a day trip from Hyannis.",
     "lat": 41.3157314,
-    "lng": -70.0090141
+    "lng": -70.0090141,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-ogunquit-marginal-way-perkins-cove",
@@ -6965,11 +6965,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "The Marginal Way cliff path + drawbridge at Perkins Cove + wide sandy beach.",
     "lat": 43.2489755,
-    "lng": -70.5992201
+    "lng": -70.5992201,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-historic-deerfield",
@@ -6986,11 +6986,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Costumed history, open fields, hands-on colonial crafts on event days.",
     "lat": 42.543693,
-    "lng": -72.6046532
+    "lng": -72.6046532,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-way-way-store-historic-general-store",
@@ -7007,11 +7007,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Old-time penny-candy stop if you're passing through southern Maine.",
     "lat": 43.500739,
-    "lng": -70.4429855
+    "lng": -70.4429855,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-kennebunkport",
@@ -7028,11 +7028,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Trolley museum nearby, Dock Square, beaches, lobster-boat watching.",
     "lat": 43.3597864,
-    "lng": -70.4623677
+    "lng": -70.4623677,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-portland-old-port-ferries-lighthouses",
@@ -7049,11 +7049,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Cobblestone streets, fire-boat & ferries, narrow-gauge railway rides, lighthouse at Fort Williams park.",
     "lat": 43.6573605,
-    "lng": -70.2586618
+    "lng": -70.2586618,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-the-berkshires-region",
@@ -7070,11 +7070,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Base camp for mountain coasters, sculpture parks, gardens, swimming holes - good multi-day hub.",
     "lat": 42.3424724,
-    "lng": -73.2672794
+    "lng": -73.2672794,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-rockland-breakwater-lighthouse-walk",
@@ -7091,11 +7091,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Walk the nearly-mile-long granite breakwater out to the lighthouse - a real adventure for a 5yo.",
     "lat": 44.1048327,
-    "lng": -69.1091823
+    "lng": -69.1091823,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-woodstock-covered-bridge-billings-farm",
@@ -7112,11 +7112,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Covered bridge + Billings Farm (cows, wagon rides, butter-making) - very hands-on for little kids.",
     "lat": 43.6247646,
-    "lng": -72.5189791
+    "lng": -72.5189791,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-burlington-church-st-lake-champlain",
@@ -7133,11 +7133,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Pedestrian street performers, ECHO science center on the lake, ferry rides, splash fountains.",
     "lat": 44.4761601,
-    "lng": -73.212906
+    "lng": -73.212906,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-bar-harbor-gateway-to-acadia",
@@ -7154,11 +7154,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Tide pools at low tide, carriage roads, popovers, Cadillac Mtn sunrise; sandbar walk to Bar Island at low tide.",
     "lat": 44.3876378,
-    "lng": -68.2043361
+    "lng": -68.2043361,
+    "seasonality": "year-round"
   },
   {
     "id": "sculpture-art-park-chesterwood",
@@ -7175,11 +7175,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": null,
     "lat": 42.2848909,
-    "lng": -73.3522226
+    "lng": -73.3522226,
+    "seasonality": "year-round"
   },
   {
     "id": "eating-play-rainforest-cafe-themed-dining",
@@ -7196,11 +7196,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Location TBD - verify nearest Rainforest Cafe (Providence Place Mall historically).",
     "lat": 41.8239891,
-    "lng": -71.4128343
+    "lng": -71.4128343,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-plymouth-ma",
@@ -7217,11 +7217,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Plymouth Rock, Mayflower II ship to board, waterfront, Plimoth Patuxet living history nearby; very kid-graspable history.",
     "lat": 41.9583799,
-    "lng": -70.6673851
+    "lng": -70.6673851,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-manchester-by-the-sea-ma",
@@ -7238,11 +7238,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Singing Beach (sand actually squeaks!), harbor, ice cream; classic North Shore beach-town day.",
     "lat": 42.5749888,
-    "lng": -70.7713335
+    "lng": -70.7713335,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-exeter-nh",
@@ -7259,11 +7259,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Pretty riverfront downtown, bandstand, swan-filled river, ice cream, Water St shops; gentle small-town wander.",
     "lat": 42.9810009,
-    "lng": -70.9587095
+    "lng": -70.9587095,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-south-berwick-me",
@@ -7280,11 +7280,11 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Storybook small town (Hamilton House + Vaughan Woods trails along the river); quiet, scenic, low-key.",
     "lat": 43.2324727,
-    "lng": -70.7957676
+    "lng": -70.7957676,
+    "seasonality": "year-round"
   },
   {
     "id": "city-town-trip-eliot-me-stratham-nh-seacoast-border-towns",
@@ -7301,10 +7301,178 @@
     "oslNote": null,
     "discount": false,
     "discountNote": null,
-    "seasonal": false,
     "hours": null,
     "details": "Quiet Seacoast towns near Portsmouth; pair with Stratham Hill Park playground + nearby Alnoba/sculpture. Add-on to a Portsmouth day.",
     "lat": 43.1081291,
-    "lng": -70.7776375
+    "lng": -70.7776375,
+    "seasonality": "year-round"
+  },
+  {
+    "id": "movie-drive-in-rustic-tri-view-drive-in",
+    "name": "Rustic Tri-View Drive-In",
+    "category": "Movie / Drive-In",
+    "city": "North Smithfield",
+    "state": "RI",
+    "driveMinutes": 25,
+    "driveBucket": "<30",
+    "indoorOutdoor": "Outdoor",
+    "priceTier": "under50",
+    "priceNote": "~$30 per carload",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": true,
+    "discountNote": "Buy online in advance + check for season-pass",
+    "seasonality": "warm",
+    "hours": "Open April-October; gates open evening, double features at dusk",
+    "details": "Three-screen drive-in with classic concessions stand.",
+    "lat": 41.9821409,
+    "lng": -71.5146492
+  },
+  {
+    "id": "movie-drive-in-misquamicut-drive-in",
+    "name": "Misquamicut Drive-In",
+    "category": "Movie / Drive-In",
+    "city": "Westerly",
+    "state": "RI",
+    "driveMinutes": 50,
+    "driveBucket": "30-60",
+    "indoorOutdoor": "Outdoor",
+    "priceTier": "under50",
+    "priceNote": "~$20 per carload (advance tickets required)",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": true,
+    "discountNote": "Buy online in advance + check for season-pass",
+    "seasonality": "warm",
+    "hours": "May-September, Thu-Sat; gates 6:30pm, movie ~9pm",
+    "details": "Single-screen classic/second-run movies steps from Misquamicut State Beach.",
+    "lat": 41.3247958,
+    "lng": -71.797693
+  },
+  {
+    "id": "movie-drive-in-mendon-twin-drive-in",
+    "name": "Mendon Twin Drive-In",
+    "category": "Movie / Drive-In",
+    "city": "Mendon",
+    "state": "MA",
+    "driveMinutes": 45,
+    "driveBucket": "30-60",
+    "indoorOutdoor": "Outdoor",
+    "priceTier": "under50",
+    "priceNote": "~$37 per carload",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": true,
+    "discountNote": "Buy online in advance + check for season-pass",
+    "seasonality": "warm",
+    "hours": "Open April-September",
+    "details": "Two-screen drive-in with playground and concessions before showtime.",
+    "lat": 42.114844,
+    "lng": -71.5465735
+  },
+  {
+    "id": "movie-drive-in-mansfield-drive-in",
+    "name": "Mansfield Drive-In",
+    "category": "Movie / Drive-In",
+    "city": "Mansfield Center",
+    "state": "CT",
+    "driveMinutes": 70,
+    "driveBucket": "60-90",
+    "indoorOutdoor": "Outdoor",
+    "priceTier": "under50",
+    "priceNote": "$13 adult / $9 child (4-11); $22/car Wednesday carload night",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": true,
+    "discountNote": "Buy online in advance + check for season-pass",
+    "seasonality": "warm",
+    "hours": "April-September; weekends only spring/fall, nightly in peak summer",
+    "details": "Three-screen drive-in with marketplace and a screen dedicated to family films.",
+    "lat": 41.7413989,
+    "lng": -72.25765
+  },
+  {
+    "id": "movie-drive-in-wellfleet-drive-in",
+    "name": "Wellfleet Drive-In",
+    "category": "Movie / Drive-In",
+    "city": "South Wellfleet",
+    "state": "MA",
+    "driveMinutes": 110,
+    "driveBucket": "90+",
+    "indoorOutdoor": "Outdoor",
+    "priceTier": "under50",
+    "priceNote": "~$15 adult / $10 child (4-11); 3 & under free",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": true,
+    "discountNote": "Buy online in advance + check for season-pass",
+    "seasonality": "warm",
+    "hours": "Memorial Day-Labor Day; box office opens 6:15pm",
+    "details": "Classic Cape Cod drive-in with an attached indoor cinema and mini-golf/playground on site.",
+    "lat": 41.9210973,
+    "lng": -70.007977
+  },
+  {
+    "id": "movie-drive-in-providence-place-cinemas-imax",
+    "name": "Providence Place Cinemas 16 & IMAX",
+    "category": "Movie / Drive-In",
+    "city": "Providence",
+    "state": "RI",
+    "driveMinutes": 10,
+    "driveBucket": "<30",
+    "indoorOutdoor": "Indoor",
+    "priceTier": "under50",
+    "priceNote": "~$15-22 per ticket; IMAX upcharge",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": false,
+    "discountNote": null,
+    "seasonality": "year-round",
+    "hours": "Daily, regular movie showtimes",
+    "details": "Rhode Island's only IMAX screen (one of ~30 in the world equipped for IMAX 70mm), six stories tall with reclining stadium seating.",
+    "lat": 41.8275772,
+    "lng": -71.4162056
+  },
+  {
+    "id": "movie-drive-in-jordans-imax-reading",
+    "name": "Jordan's IMAX Theater (Reading)",
+    "category": "Movie / Drive-In",
+    "city": "Reading",
+    "state": "MA",
+    "driveMinutes": 75,
+    "driveBucket": "60-90",
+    "indoorOutdoor": "Indoor",
+    "priceTier": "under50",
+    "priceNote": "~$15-20 per ticket",
+    "oslFree": false,
+    "oslNote": null,
+    "discount": false,
+    "discountNote": null,
+    "seasonality": "year-round",
+    "hours": "Daily, regular showtimes",
+    "details": "New England's only 4K laser IMAX, with ~500 memory-foam seats and 'Butt Kicker' subwoofers built into every seat. Inside the Jordan's Furniture store.",
+    "lat": 42.5202488,
+    "lng": -71.0898122
+  },
+  {
+    "id": "movie-drive-in-mugar-omni-theater",
+    "name": "Mugar Omni Theater (Museum of Science)",
+    "category": "Movie / Drive-In",
+    "city": "Boston",
+    "state": "MA",
+    "driveMinutes": 60,
+    "driveBucket": "30-60",
+    "indoorOutdoor": "Indoor",
+    "priceTier": "under50",
+    "priceNote": "~$12-15 per ticket; combo discounts with museum admission",
+    "oslFree": false,
+    "oslNote": "Museum of Science exhibit halls may be free/discounted via the OSL pass; the Omni Theater film is a separate add-on ticket.",
+    "discount": true,
+    "discountNote": "Combo tickets w/ Museum of Science exhibit admission",
+    "seasonality": "year-round",
+    "hours": "Daily, scheduled film showtimes (check museum website)",
+    "details": "Five-story domed IMAX-style screen showing science and nature films, located inside the Museum of Science.",
+    "lat": 42.3674305,
+    "lng": -71.071098
   }
 ]

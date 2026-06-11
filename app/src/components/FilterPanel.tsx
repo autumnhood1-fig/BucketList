@@ -1,4 +1,4 @@
-import type { Filters, SeasonFilter, VisitedFilter } from "../types/filters";
+import type { Filters, VisitedFilter } from "../types/filters";
 import {
   DRIVE_BUCKETS,
   DRIVE_BUCKET_LABELS,
@@ -6,6 +6,8 @@ import {
   INDOOR_OUTDOOR_OPTIONS,
   PRICE_TIERS,
   PRICE_TIER_LABELS,
+  SEASON_FILTERS,
+  SEASON_LABELS,
 } from "../types/filters";
 import type { DriveBucket, IndoorOutdoor, PriceTier } from "../types/place";
 import { FilterSection } from "./FilterSection";
@@ -120,10 +122,10 @@ export function FilterPanel({ filters, onChange, categories, states, resultCount
         </FilterSection>
 
         <FilterSection title="Seasonality">
-          {(["year-round", "seasonal"] as SeasonFilter[]).map((s) => (
+          {SEASON_FILTERS.map((s) => (
             <Checkbox
               key={s}
-              label={s === "year-round" ? "Year-round" : "Seasonal"}
+              label={SEASON_LABELS[s]}
               checked={filters.seasonality.includes(s)}
               onChange={() => set("seasonality", toggleItem(filters.seasonality, s))}
             />
