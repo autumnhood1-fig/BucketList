@@ -22,6 +22,7 @@ export const CATEGORY_COLORS: Record<string, string> = {
   "Tide Pools": "#14b8a6",
   "City & Town Trip": "#6366f1",
   "Movie / Drive-In": "#be185d",
+  "Roadside Oddity": "#475569",
 };
 
 export const DEFAULT_COLOR = "#6b7280";
