@@ -44,6 +44,14 @@ export function PlaceListView({ places, isVisited, toggleVisited }: Props) {
                     <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-700">
                       {place.category}
                     </span>
+                    {place.tags?.map((tag) => (
+                      <span
+                        key={tag}
+                        className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-700"
+                      >
+                        {tag}
+                      </span>
+                    ))}
                     <span className="rounded bg-gray-100 px-1.5 py-0.5 text-xs text-gray-700">
                       {place.indoorOutdoor}
                     </span>

@@ -10,7 +10,9 @@ import { placeMatchesFilters } from "./lib/filterPlaces";
 
 const places = placesData as Place[];
 
-const CATEGORIES = Array.from(new Set(places.map((p) => p.category))).sort();
+const CATEGORIES = Array.from(
+  new Set(places.flatMap((p) => [p.category, ...(p.tags ?? [])])),
+).sort();
 const STATES = Array.from(new Set(places.map((p) => p.state).filter(Boolean))).sort();
 
 function App() {

@@ -7,6 +7,7 @@ export interface Place {
   id: string;
   name: string;
   category: string;
+  tags?: string[];
   city: string;
   state: string;
   driveMinutes: number | null;

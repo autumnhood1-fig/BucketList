@@ -13,8 +13,11 @@ export function placeMatchesFilters(
     if (!matches) return false;
   }
 
-  if (filters.categories.length && !filters.categories.includes(place.category)) {
-    return false;
+  if (filters.categories.length) {
+    const placeCategories = [place.category, ...(place.tags ?? [])];
+    if (!filters.categories.some((c) => placeCategories.includes(c))) {
+      return false;
+    }
   }
 
   if (filters.indoorOutdoor.length && !filters.indoorOutdoor.includes(place.indoorOutdoor)) {

@@ -23,6 +23,10 @@ export const CATEGORY_COLORS: Record<string, string> = {
   "City & Town Trip": "#6366f1",
   "Movie / Drive-In": "#be185d",
   "Roadside Oddity": "#475569",
+  "Roadside Attraction": "#92400e",
+  "Spooky": "#581c87",
+  "History": "#854d0e",
+  "Pop Culture": "#db2777",
 };
 
 export const DEFAULT_COLOR = "#6b7280";
