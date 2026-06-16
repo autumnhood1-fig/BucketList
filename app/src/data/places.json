@@ -10604,5 +10604,29 @@
     "details": "Can go inside \u2014 guided tour includes keeper's house and tower climb (ages 10+). Accessible only by boat. Full interior access and ghost legend.",
     "lat": 43.4577,
     "lng": -70.3945
+  },
+  {
+    "id": "museum-learning-center-maine-maritime-museum",
+    "name": "Maine Maritime Museum",
+    "category": "Museum / Learning Center",
+    "tags": [
+      "History"
+    ],
+    "city": "Bath",
+    "state": "ME",
+    "driveMinutes": 180,
+    "driveBucket": "90+",
+    "indoorOutdoor": "Both",
+    "priceTier": "under50",
+    "priceNote": "$22 adult / $20 senior / FREE kids 17 & under (through 2026)",
+    "oslFree": false,
+    "oslNote": "Maine residents: borrow a free day pass through your local library (call to reserve)",
+    "discount": true,
+    "discountNote": "Active military + families free via Blue Star Museums | SNAP/EBT: free for up to 4 adults via Museums for All | Reciprocal museum members: check for discounts",
+    "seasonality": "year-round",
+    "hours": null,
+    "details": "Large maritime museum on 20 acres along the Kennebec River in Bath ME. Includes historic shipyard, boat tours, hands-on exhibits, and a full-size replica of a 19th-century sailing ship. Kids 17 and under free through 2026.",
+    "lat": 43.8938384,
+    "lng": -69.8159294
   }
 ]
