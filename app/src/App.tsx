@@ -14,12 +14,13 @@ const CATEGORIES = Array.from(
   new Set(places.flatMap((p) => [p.category, ...(p.tags ?? [])])),
 ).sort();
 const STATES = Array.from(new Set(places.map((p) => p.state).filter(Boolean))).sort();
+const DEFAULT_VISITED_IDS = places.filter((p) => p.defaultVisited).map((p) => p.id);
 
 function App() {
   const [filters, setFilters] = useState<Filters>(EMPTY_FILTERS);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [viewMode, setViewMode] = useState<"map" | "list">("map");
-  const { isVisited, toggleVisited } = useVisited();
+  const { isVisited, toggleVisited } = useVisited(DEFAULT_VISITED_IDS);
 
   const filteredPlaces = useMemo(
     () => places.filter((p) => placeMatchesFilters(p, filters, isVisited)),

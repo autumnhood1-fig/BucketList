@@ -27,6 +27,7 @@ export const CATEGORY_COLORS: Record<string, string> = {
   "Spooky": "#581c87",
   "History": "#854d0e",
   "Pop Culture": "#db2777",
+  "Indoor Play": "#ec4899",
 };
 
 export const DEFAULT_COLOR = "#6b7280";

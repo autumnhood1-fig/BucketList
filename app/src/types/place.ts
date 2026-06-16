@@ -8,6 +8,7 @@ export interface Place {
   name: string;
   category: string;
   tags?: string[];
+  defaultVisited?: boolean;
   city: string;
   state: string;
   driveMinutes: number | null;
